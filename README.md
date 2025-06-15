@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Logeshkumar</h1>
 
 <div align="center">
-  <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner">
+  <img src="https://github.com/logesh-45/logesh-45/blob/main/Banner.png" alt="Logeshkumar Banner">
 </div>
 
 <h3 align="center">I need to add</h3>
@@ -17,9 +17,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/logesh-45](https://github.com/logesh-45)  
 - 💬 Ask me about **DevOps & Cloud DevOps**  
