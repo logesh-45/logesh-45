@@ -50,12 +50,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/splunk.png" alt="splunk"/>
+  
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=logesh-45&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+/*<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=logesh-45&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=logesh-45&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 
@@ -65,15 +66,9 @@
 ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
 
 ---
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=logesh-45f&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
----
-
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
 
-🎤 Available for **Guest Sessions / Webinars**  
+🎤 Available for **Guest sessions**  
 🤝 Open to **Project Collaborations **  
 💼 I need to add  
 📧 Let’s chat: [iamdevops995@gmail.com](iamdevops995@gmail.com)
