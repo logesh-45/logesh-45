@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Logeshkumar</h1>
 
 <div align="center">
-  <img src="https://github.com/logesh-45/logesh-45/blob/main/Banner.png" alt="Logeshkumar Banner">
+  <img src="https://github.com/logesh-45/logesh-45/blob/main/logeshbanner.png" alt="Logeshkumar Banner">
 </div>
 
 <h3 align="center">I need to add</h3>
